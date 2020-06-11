@@ -16,3 +16,6 @@ with open("name.json","w") as f:
 with open("name.json","w") as f:
     json.dump(resdct,f)
 ```
+
+### How to read and write json file
+https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/
